@@ -33,5 +33,20 @@ Continuos Distributions (Normal, Poisson, Gaussian) 连续分布（正态，泊�
 Skewness 偏态
 ANOVA 方差分析
 Prob Den Fn(PDF) Probability Distribution Function 概率分部函数
+Central Limit Theorem 中心极限定理
+Monte Carlo Method 蒙特卡洛方法
+Hypothesis Testing 假设检验
+P-Value 假定值
+Chi Test 卡方算法
+Estimation 
+Confid Int (CI)
+MLE maximum likelihood estimation 最大可能性估量
+Kernel Density Estimate 核密度估计
+Regression Covariance 回归协方差
+Correlation 关联
+Pearson Coeff 皮尔森科夫
+Causation 因果关系
+Least Fit 最适合
+Euclidean Distance 欧几里德距离
 
 --------------------Part 3-----------------------------
